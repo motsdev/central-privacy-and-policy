@@ -1,4 +1,4 @@
-# central-privacy-and-policy
+# Central-privacy-and-policy
 Termos de Serviço & Privacidade Para que eu possa funcionar bem, eu preciso de algumas informações de você e de outros usuários no Discord, para isto, eu tenho termos de serviço, para que você possa ver o que eu peço de você e, é claro, tudo que eu posso fazer!
 Ao usar a Central. Corporation Você assume responsabilidade por qualquer imagem/vídeo/áudio/mídia enviada para mim, tentar abusar de bugs/usar bots/trapaças são proibídos e você poderá perder o acesso a todas as minhas funcionalidades (e de outros serviços), nós iremos coletar informações como seu ID, username, email, IP, avatar, servidores, mensagens, mídia e outras coCentrals (mas nós não iremos distrubir tais informações para terceiros), você não irá difamar/prejudicar a imagem da Central. Corporation, Suporte Central. Corporation Chefão , Enflect ou de qualquer outro serviço do Central. Corporation Corporation, você poderá ser suspenso de usar a Central. Corporation ou qualquer outro serviço por quaisquer motivo, que você não poderá recuperar dados caso sejam perdidos, e que você está de acordo tudo que está nos termos de uso.
 
